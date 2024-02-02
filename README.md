@@ -1,3 +1,9 @@
+### This repository has been archived
+
+Due to the way HACS deals with repositories, it's simpler to make changes in the [original repository](https://github.com/rsnodgrass/hass-adtpulse)
+
+Please make any future changes/log any future issues there.
+
 # ADT Pulse for Home Assistant
 
 Home Assistant integration for [ADT Pulse](https://portal.adtpulse.com/) security systems for both alarming/disarming, as well as sensor status (motion, door, window, etc).
